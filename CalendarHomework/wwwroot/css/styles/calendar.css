@@ -22,7 +22,6 @@ body{
 }
 
 #section-list{
-    flex: 1;
     width: 60%;
     height: 100%;
 }
